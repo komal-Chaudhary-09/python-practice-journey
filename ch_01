@@ -1,0 +1,5 @@
+# Question: Print Hello World
+# Concept: Basic print
+# Date: 24-04-2026
+
+print("Hello, World!")
