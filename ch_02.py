@@ -1,3 +1,7 @@
+#string basics
+
+
+
 #strings are not mutable 
 
 name = "komal choudhary "
@@ -44,3 +48,7 @@ print("Java" not in text)    #membership operators
 text = "table "
 
 print(text[::-1])     # reverse string 
+
+
+name = " hello my name is  komal "
+print(name.replace("  "," "))
