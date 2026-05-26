@@ -1,1 +1,0 @@
-words = data.split()

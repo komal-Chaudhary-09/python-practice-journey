@@ -1,0 +1,4 @@
+Java is good
+I love Python
+Database connected
+python server started
